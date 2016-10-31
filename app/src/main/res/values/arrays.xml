@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="days">
+        <item>today only</item>
+        <item>two days</item>
+        <item>three days</item>
+        <item>four days</item>
+        <item>five days</item>
+    </string-array>
+    <string-array name="method">
+        <item>detect location</item>
+        <item>zipcode</item>
+    </string-array>
+    <string-array name="degree">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>简体中文</item>
+    </string-array>
+</resources>

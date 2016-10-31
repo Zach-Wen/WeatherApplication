@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="num_of_day">Days Displayed</string>
+    <string name="zipcode_location">Method</string>
+    <string name="celsius_fahrenheit">Degree Type</string>
+    <string name="language">Language</string>
+    <string name="commit">Commit</string>
+    <string name="action_settings">Settings</string>
+    <string name="temperature">Temperature</string>
+</resources>
